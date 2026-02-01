@@ -1,7 +1,7 @@
 # didhtickets
-The system design to collect and stores all IT documents such as tickets history, errors, tutorials, and essential Documents.
-with integration of chatbot AI for more assistance and faster solution and problem solving. 
+A system designed to collect and store all IT-related documents, including ticket history, error logs, tutorials, and other essential resources. 
+The system integrates an AI-powered chatbot to provide assistance, enabling faster solutions and more efficient problem-solving.
 
-Created using HTML, JAVASCRIPT, PHP AND MYSQL. 
-First phase; Developer do not use framework till it's finished and working. However, will use framework in the future for
-better structure and stable system.
+The system is developed using HTML, JavaScript, PHP, and MySQL. In the first phase, the developer chose not to use any frameworks to ensure 
+full functionality and core features are properly implemented. Frameworks will be introduced in future phases to 
+mprove structure, scalability, and overall system stability.
